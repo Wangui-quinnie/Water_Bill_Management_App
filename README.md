@@ -89,6 +89,16 @@ You will see a menu with options:
 
 Follow the prompts to interact with the system.
 
+## Screenshots
+
+### Main Menu
+![Main Menu](https://github.com/Wangui-quinnie/Water_Bill_Management_App/blob/main/assets/menu.png?raw=true)
+
+### View Tenants
+![View Tenants](https://github.com/Wangui-quinnie/Water_Bill_Management_App/blob/main/assets/view_tenants.png?raw=true)
+
+### Generate Bill
+![Generate Bill](https://github.com/Wangui-quinnie/Water_Bill_Management_App/blob/main/assets/generate_bills.png?raw=true)
 ## Security Note
 
 - **Never share your database password publicly.** Consider using environment variables or a `.env` file for production use.
