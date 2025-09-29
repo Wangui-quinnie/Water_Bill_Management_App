@@ -8,8 +8,8 @@ import datetime
 # !! IMPORTANT: Update these with your MySQL connection details !!
 DB_CONFIG = {
     'host': 'localhost',
-    'user': 'root', # or your specific username
-    'password': 'KuiMaina1', # replace with your MySQL password
+    'user': 'username', # or your specific username
+    'password': 'yourpassword', # replace with your MySQL password
     'database': 'rental_management'
 }
 
